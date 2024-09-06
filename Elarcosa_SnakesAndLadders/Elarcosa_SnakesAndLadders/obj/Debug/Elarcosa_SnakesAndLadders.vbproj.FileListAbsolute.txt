@@ -1,0 +1,38 @@
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.exe.config
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.exe
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.pdb
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.xml
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.Form1.resources
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.exe
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.xml
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.pdb
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.exe.config
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.exe
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.pdb
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.xml
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.AssemblyReference.cache
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.Form1.resources
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.Resources.resources
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.GenerateResource.cache
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.exe
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.xml
+C:\Users\Acer\Documents\CPA-MIDTERMS\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.pdb
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.exe.config
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.exe
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.pdb
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\bin\Debug\Elarcosa_SnakesAndLadders.xml
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.Form1.resources
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.vbproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.exe
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.xml
+C:\Users\CJ Elarcosa\source\repos\CPA-MIDTERMS-SnakesandLadders\Elarcosa_SnakesAndLadders\Elarcosa_SnakesAndLadders\obj\Debug\Elarcosa_SnakesAndLadders.pdb

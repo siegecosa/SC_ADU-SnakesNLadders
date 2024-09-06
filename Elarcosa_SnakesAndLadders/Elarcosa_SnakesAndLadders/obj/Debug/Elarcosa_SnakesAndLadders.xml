@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Elarcosa_SnakesAndLadders
+</name>
+</assembly>
+<members>
+<member name="T:Elarcosa_SnakesAndLadders.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.ai1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.ai2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.ai3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.d1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.d2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.d3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.d4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.d5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.d6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Elarcosa_SnakesAndLadders.My.Resources.Resources.player">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
